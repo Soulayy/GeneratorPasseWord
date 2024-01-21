@@ -61,7 +61,8 @@ p {
     width: 350px;
     height: 30px;
     border-radius: 5px;
-    
+    font-size: 20px;
+    font-weight: bold;
 }
 
 
@@ -82,4 +83,11 @@ p {
     border: 1px solid ;
     color: white;
     font-weight: bold;
+}
+
+#clr {
+    accent-color: #ce31d9;
+}
+#clr1 {
+    accent-color: #00caff;
 }
